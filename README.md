@@ -53,7 +53,4 @@ This is a Java application to find prime numbers up to a user-specified limit. T
      - The list of prime numbers up to `N`.
      - The total execution time in milliseconds.
 
----
-
-## Example Output
 
